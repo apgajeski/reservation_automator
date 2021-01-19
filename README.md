@@ -1,7 +1,7 @@
 # reservation_automator
 
 Usage Instructions
-1. Copy your script 
+1. Copy the script ('reservation_system.js')
 2. Set top level variables
   i. Day Selection
      a. desiredDay = set this to the day of the month you are looking to reserve. it must be in the current month.
